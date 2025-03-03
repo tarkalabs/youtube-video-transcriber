@@ -1,0 +1,34 @@
+Here’s a detailed prompt you can use to extract key insights from a video transcription:
+
+---
+
+**Prompt for Extracting Key Insights from a Video Transcription**  
+
+*"I have a full transcription of a video, and I need a structured summary of its key insights. Please analyze the transcription and extract all relevant data, including main topics, key arguments, and important takeaways. The goal is to determine whether watching the video is worthwhile. Please structure the response as follows:"*  
+
+### **1. Video Overview**  
+- **Title/Topic**: (If available, summarize the title or main subject of the video.)  
+- **Primary Theme**: (What is the core message or subject of the video?)  
+- **Type of Video**: (Is it educational, informational, a tutorial, a discussion, an interview, or entertainment-based?)  
+
+### **2. Key Takeaways**  
+- **Main Points**: List the most important topics covered in the video, with a short explanation for each.  
+- **Actionable Insights**: Identify any steps, advice, or recommendations given.  
+- **Arguments & Supporting Evidence**: If the video presents arguments, summarize them along with the evidence provided.  
+
+### **3. Speaker Credibility & Presentation Style**  
+- **Who is speaking?** (If identifiable, provide their credentials or background.)  
+- **Tone & Delivery**: (Is the presentation engaging, clear, and easy to follow?)  
+- **Bias or Subjectivity**: (Is there a clear bias, or is the content presented objectively?)  
+
+### **4. Pros & Cons of Watching the Video**  
+- **Pros**: (Reasons why the video is valuable or insightful.)  
+- **Cons**: (Any drawbacks, such as repetition, lack of depth, or poor explanation.)  
+
+### **5. Verdict – Is It Worth Watching?**  
+- **Overall Summary**: Based on the insights extracted, would you recommend watching the video? If so, for whom (beginners, experts, general audience)?  
+- **Estimated Time Value**: (If the video is long, does it justify the time spent watching?)  
+
+---
+
+This prompt ensures a structured and thorough analysis, helping determine if the video is worth the viewer’s time. Let me know if you'd like any refinements! 🚀

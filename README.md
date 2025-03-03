@@ -40,5 +40,6 @@ A Python-based tool that downloads YouTube videos, transcribes the audio to text
    - Pull the required model: `ollama pull llama3.2:2b`
 
 ## Usage
-
-### Process a YouTube Video 
+```
+python youtube_to_text.py "https://www.youtube.com/watch?v=UF8uR6Z6KLc" '~/Desktop/transcribed/'
+```
